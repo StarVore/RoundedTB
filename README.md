@@ -2,7 +2,9 @@
 
 Issues to fix:
 - [x] Crashing on startup
-- [ ] Incorrect width of taskbar when using Dynamic mode
+	- [ ] Still need to fix the "Welcome" screen crashing on startup
+- [X] Incorrect width of taskbar when using Dynamic mode
+- [ ] Migrate solution to an LTS version of .NET from .NET Framework
 
 ![RoundedTB](https://cdn.discordapp.com/attachments/272509873479221249/891555515799318568/unknown.png)
 
