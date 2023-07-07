@@ -1,7 +1,7 @@
 ### This fork is to attempt to update the codebase to better work with current Windows 11 versions as development seems to have ceased on the main fork. 
 
 Issues to fix:
-- [ ] Crashing on startup
+- [x] Crashing on startup
 - [ ] Incorrect width of taskbar when using Dynamic mode
 
 ![RoundedTB](https://cdn.discordapp.com/attachments/272509873479221249/891555515799318568/unknown.png)
